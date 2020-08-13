@@ -1,3 +1,3 @@
 # Архитектура программного обеспечения
 
-[Смотри в gitlab =)](https://gitlab.com/SEXY-PHP/software-architecture)
+[Смотри в gitlab =)](https://gitlab.com/K-96/software-architecture)
